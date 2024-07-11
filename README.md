@@ -20,3 +20,5 @@ Settings : New Game: Choose between single-player, two-players, or autoplay mode
 
 Contributing Contributions to this project are welcome. You can contribute by fixing bugs, adding features, or improving the documentation. Fork the repository, make your changes, and submit a pull request.
 License This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial projects.
+
+Here's the live link for it : https://gorllia-game.netlify.app/
